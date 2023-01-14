@@ -79,17 +79,14 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
 <p>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Python-265277?style=for-the-badge&logo=python&logoColor=white">
- <h6> Front-end </h6>
- <p>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
  <img src="https://img.shields.io/badge/gulp-DB4446?style=for-the-badge&logo=gulp&logoColor=white">
   <img src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
   <img src="https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebars.js&logoColor=white">
- </p>
- <h6> Back-end </h6>
- <p>
+
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 
