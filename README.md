@@ -23,7 +23,6 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
 <h6> Programming Languages </h6>
 <p>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=red">
-  <img src="https://img.shields.io/badge/Python-265277?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
@@ -40,6 +39,7 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
   
 </p>
 <h6> Technologies </h6>
@@ -48,7 +48,7 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  
 </p>
 <h6> Front-end </h6>
 <p>
@@ -60,6 +60,7 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   
 </p>
 <h6> Back-end </h6>
@@ -76,6 +77,8 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
 </p>
 <h4> To learn or improve </h4>
 <p>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-265277?style=for-the-badge&logo=python&logoColor=white">
  <h6> Front-end </h6>
  <p>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
