@@ -13,7 +13,7 @@ I'm Alejandro Fajardo, I'm currently finishing my degree in systems engineering 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.instagram.com/1alejof22/">
+  <a href="https://www.instagram.com/_brxken.mind_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
 </p>
